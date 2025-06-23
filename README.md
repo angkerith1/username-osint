@@ -26,7 +26,6 @@
 
 ```bash
 # Clone with git
-git clone https://github.com/yourusername/HiddenEyes.git && cd HiddenEyes
-
+git clone https://github.com/angkerith1/username-osint.git && cd username-osint
 # Install dependencies
 pip install -r requirements.txt
