@@ -12,7 +12,7 @@ init(autoreset=True)
 
 class UsernameHunter:
     def __init__(self):
-        self.version = "4.0"
+        self.version = "1.0"
         self.session = requests.Session()
         self.headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
         self.timeout = 15
