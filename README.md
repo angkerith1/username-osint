@@ -1,8 +1,6 @@
 <div align="center">
   
-# 🕵️‍♂️ <span style="color: #4facfe;">Hidden</span><span style="color: #00f2fe;">Eyes</span> OSINT Tool
-  
-![Banner](pic/osint.png)
+# 🕵️‍♂️ <span style="color: #4facfe;">ANON</span><span style="color: #00f2fe;">KH</span> OSINT Tool
 
 [![Python](https://img.shields.io/badge/Python-3.6+-yellow?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?logo=open-source-initiative&logoColor=white)](LICENSE)
