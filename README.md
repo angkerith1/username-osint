@@ -1,51 +1,32 @@
-# username-osint
-THIE TOOL BY CYBER_TEAM - CAMBODIA
+<div align="center">
+  
+# 🕵️‍♂️ <span style="color: #4facfe;">Hidden</span><span style="color: #00f2fe;">Eyes</span> OSINT Tool
+  
+![Banner](https://i.imgur.com/YOUR_BANNER.png)
 
-# 🔍 ANON-KH OSINT Tool v1.0
+[![Python](https://img.shields.io/badge/Python-3.6+-yellow?logo=python&logoColor=white)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-blue?logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Release](https://img.shields.io/badge/Release-v4.0-orange?logo=github&logoColor=white)](https://github.com/yourusername/HiddenEyes/releases)
+[![Stars](https://img.shields.io/github/stars/yourusername/HiddenEyes?color=purple&logo=github&logoColor=white)](https://github.com/yourusername/HiddenEyes/stargazers)
 
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="HiddenEyes Banner" width="600">
-</p>
+</div>
 
-<p align="center">
-  <em>Advanced username reconnaissance tool across 30+ platforms</em>
-</p>
+## ✨ Features
 
 <div align="center">
 
-[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)](CONTRIBUTING.md)
+| 🚀 Performance | 📊 Intelligence | 🔒 Security |
+|--------------|---------------|------------|
+| <img src="https://img.icons8.com/fluency/48/000000/network.png" width="40"/> <br> Multi-threaded scanning | <img src="https://img.icons8.com/color/48/000000/database.png" width="40"/> <br> 30+ platforms | <img src="https://img.icons8.com/color/48/000000/security-checked.png" width="40"/> <br> Safe requests |
+| <img src="https://img.icons8.com/color/48/000000/stopwatch.png" width="40"/> <br> Fast results | <img src="https://img.icons8.com/fluency/48/000000/parse-resume.png" width="40"/> <br> Smart detection | <img src="https://img.icons8.com/color/48/000000/anonymous-mask.png" width="40"/> <br> Privacy focused |
 
 </div>
 
----
+## 🛠️ Installation
 
-## 🌟 Features
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-
-<div style="flex: 1; min-width: 200px; background: #1a1a2e; padding: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<h3>🔎 Multi-Platform Scanning</h3>
-<p>Check username availability across 30+ social networks, tech platforms, and more</p>
-</div>
-
-<div style="flex: 1; min-width: 200px; background: #16213e; padding: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<h3>⚡ Parallel Processing</h3>
-<p>Fast scanning with 25 concurrent threads</p>
-</div>
-
-<div style="flex: 1; min-width: 200px; background: #0f3460; padding: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<h3>📊 Detailed Reports</h3>
-<p>Export results in JSON or CSV format</p>
-</div>
-
-</div>
-
-## 🚀 Quick Start
-
-### Installation
 ```bash
-git clone https://github.com/yourusername/HiddenEyes.git
-cd HiddenEyes
+# Clone with git
+git clone https://github.com/yourusername/HiddenEyes.git && cd HiddenEyes
+
+# Install dependencies
 pip install -r requirements.txt
