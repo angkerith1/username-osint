@@ -2,7 +2,7 @@
   
 # 🕵️‍♂️ <span style="color: #4facfe;">Hidden</span><span style="color: #00f2fe;">Eyes</span> OSINT Tool
   
-![Banner](https://imgur.com/a/s3YgJm2)
+![Banner](pic/osint.png)
 
 [![Python](https://img.shields.io/badge/Python-3.6+-yellow?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?logo=open-source-initiative&logoColor=white)](LICENSE)
